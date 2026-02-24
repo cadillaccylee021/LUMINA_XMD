@@ -1,7 +1,7 @@
 FROM node:lts-buster
 
 # Clone the correct repository
-RUN git clone https://github.com/Itzpatron/lumina-xmd3.git /root/patron
+RUN git clone https://github.com/cadillaccylee021/LUMINA_XMD.git /root/patron
 
 # Set working directory
 WORKDIR /root/patron
@@ -16,4 +16,5 @@ COPY . .
 EXPOSE 9090
 
 # Start the app
+
 CMD ["npm", "start"]
