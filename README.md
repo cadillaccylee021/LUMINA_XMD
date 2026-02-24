@@ -30,7 +30,7 @@
   <img src="https://profile-counter.glitch.me/lumina-xmd3/count.svg" alt="Visitor Count" />
 </p>
 
-
+---
 
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
