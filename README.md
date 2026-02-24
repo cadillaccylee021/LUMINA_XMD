@@ -56,6 +56,10 @@
 
  ## Deployment Methods
 
+ <p align="center">
+  <img src="https://files.catbox.moe/1fn0ou.png" height="300" alt="lumina-xmd Logo" />
+</p>
+
 ### 1. FORK THE QUEEN'S REPO 👸❤️🧸
 
 <a href='https://github.com/errrbodyhatescylee/Queen_Kylie-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
