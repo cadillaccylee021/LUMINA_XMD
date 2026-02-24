@@ -1,12 +1,35 @@
+# 𝗣𝗔𝗧𝗥𝗢𝗡-𝗠𝗗 𝗕𝗢𝗧
+
 <p align="center">
-  <img src="https://files.catbox.moe/3q57x5.jpg" alt="Queen_Kylie-V1 Banner" width="450" style="border-radius: 15px;"/>
+  <img src="https://files.catbox.moe/e71nan.png" height="300" alt="lumina-xmd Logo" />
 </p>
 
- <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial%20Black&weight=700&size=16&duration=3500&pause=1000&color=FF5733&vCenter=true&width=400&lines=👸+Queen+Kylie+V1+WhatsApp+Bot;💬+Multi-Device+Support;🛠️+Developed+By+Cadillac+Cylee" alt="Typing SVG Animation" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <a href="https://github.com/Itzpatron/followers">
+    <img title="Followers" src="https://img.shields.io/github/followers/Itzpatron?color=EB5406&style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/Itzpatron/lumina-xmd3/stargazers/">
+    <img title="Stars" src="https://img.shields.io/github/stars/Itzpatron/lumina-xmd3?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white">
+  </a>
+  <a href="https://github.com/Itzpatron/lumina-xmd3/network/members">
+    <img title="Forks" src="https://img.shields.io/github/forks/Itzpatron/lumina-xmd3?color=FF007F&style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <a href="https://github.com/Itzpatron/lumina-xmd3/">
+    <img title="Repo Size" src="https://img.shields.io/github/repo-size/Itzpatron/lumina-xmd3?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white">
+  </a>
+  <a href="https://github.com/Itzpatron/lumina-xmd3/graphs/commit-activity">
+    <img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white">
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/lumina-xmd3/count.svg" alt="Visitor Count" />
+</p>
+
 
 ## ```Connect With Me```<img src="https://files.catbox.moe/59vou2.jpg" width ="80"></h1> 
 <br>
