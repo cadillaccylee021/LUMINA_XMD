@@ -65,11 +65,8 @@
 <a href='https://github.com/errrbodyhatescylee/Queen_Kylie-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID HERE.. 
-***if there is no notification :***
-
-***WhatsApp>Three-dot-menu>Linked-devices>Link-using-phone-number***
- 
-<a href="https://kylie-session-ll.onrender.com"><img src="https://img.shields.io/badge/Pair/QR-CODE-blue" alt="Click Here to Get SESSION_ID-Pair/QR-Code" width="90"></a>
+## GET SESSION 
+[![here](https://img.shields.io/badge/get-session-blue?style=for-the-badge)](https://nikka-x.onrender.com) 
 
 
 ### DEPLOY ON RENDER
