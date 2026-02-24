@@ -6,18 +6,18 @@ require('dotenv').config();
 //================= { SETTINGS } =================\\
 global.prefix = (process.env.PREFIX || ".").trim().split(/\s+/);
 // your desired prefix symbol only
-global.owner = process.env.OWNER_NUMBER || "2348133729715"; // owner number , for multiple number
+global.owner = process.env.OWNER_NUMBER || "27731881979"; // owner number , for multiple number
 global.sudo = process.env.SUDO  || "";
-global.ownername = process.env.OWNER_NAME || " TechX"; //set bot owner name here 
-global.botname = process.env.BOT_NAME || "ᴘᴀᴛʀᴏɴ-ᴍᴅ"
-global.author = process.env.AUTHOR  || " TechX";
-global.packname = process.env.PACK_NAME  || "© ᴘᴀᴛʀᴏɴ ᴍᴅ ²⁵";
+global.ownername = process.env.OWNER_NAME || " Cadillac Cylee"; //set bot owner name here 
+global.botname = process.env.BOT_NAME || "👑 𝙇𝙐𝙈𝙄𝙉𝘼_𝙓𝙈𝘿 👾🖤"
+global.author = process.env.AUTHOR  || "𝙨𝙞𝙧𝙘𝙮𝙡𝙚𝙚𝙤𝙗𝙨𝙚𝙨𝙨𝙚𝙙𝙬𝙞𝙩𝙝𝙞𝙨𝙩𝙚𝙙𝙙𝙮𝙗𝙚𝙖𝙧";
+global.packname = process.env.PACK_NAME  || "";
 global.session = process.env.SESSION_ID || ""
-global.timezone = process.env.TIME_ZONE || "Africa/Lagos";
-global.simbol = process.env.SYMBOL || '🚹';
+global.timezone = process.env.TIME_ZONE || "Africa/Johannesburg";
+global.simbol = process.env.SYMBOL || '👑';
 global.thumb = process.env.THUMB || "https://files.catbox.moe/e71nan.png"
-global.footer = process.env.FOOTER || '';
-global.warn = process.env.WARN || '4'
+global.footer = process.env.FOOTER || '> 𝙩𝙝𝙞𝙨 𝙗𝙤𝙩 𝙬𝙖𝙨 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝙗𝙮 𝙆𝙮𝙣𝙚𝙭𝙤𝙧𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨. 𝙁𝙤𝙪𝙣𝙙𝙚𝙙 𝙗𝙮 𝘾𝙖𝙙𝙞𝙡𝙡𝙖𝙘 𝘾𝙮𝙡𝙚𝙚. 👑❤👾';
+global.warn = process.env.WARN || '3'
 global.menutype = process.env.MENU_TYPE || ''
 global.scan = 'https://lumina-xmd.vercel.app'
 
