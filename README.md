@@ -60,11 +60,11 @@
   <img src="https://files.catbox.moe/suk7ag.jpg" height="300" alt="lumina-xmd Logo" />
 </p>
 
-### 1. FORK THE QUEEN'S REPO 👸❤️🧸
+### 1. FORK THE REPOSITORY. 👾🖤
 
 <a href='https://github.com/errrbodyhatescylee/Queen_Kylie-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. GET SESSION ID HERE..
+### 2. GET SESSION ID HERE...👑
 [![here](https://img.shields.io/badge/get-session-black?style=for-the-badge)](https://lumina-xmd-paircode.onrender.com) 
 
 
@@ -127,23 +127,14 @@
 
 --------
 
-
-
-
-
-
-
-## THIS SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 👸❤️🧸
+## THIS SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 👾🖤
 
 
   
-  #### ```Kylie PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/cylee/count.svg)
-
-<a><img src='https://files.catbox.moe/purbus.jpg'/></a><a><img src='https://files.catbox.moe/dhrill.jpg'/></a>
 
 
-## Support ME 👸❤️🧸
+
+## SUPPORT ME. 👾🖤
 
 SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
