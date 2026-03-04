@@ -9,25 +9,25 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Itzpatron/followers">
-    <img title="Followers" src="https://img.shields.io/github/followers/Itzpatron?color=EB5406&style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/cadillaccylee021/followers">
+    <img title="Followers" src="https://img.shields.io/github/followers/cadillaccylee021?color=EB5406&style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://github.com/Itzpatron/lumina-xmd3/stargazers/">
-    <img title="Stars" src="https://img.shields.io/github/stars/Itzpatron/lumina-xmd3?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white">
+  <a href="https://github.com/cadillaccylee021/LUMINA_XMD/stargazers/">
+    <img title="Stars" src="https://img.shields.io/github.com/cadillaccylee021/LUMINA_XMD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white">
   </a>
-  <a href="https://github.com/Itzpatron/lumina-xmd3/network/members">
-    <img title="Forks" src="https://img.shields.io/github/forks/Itzpatron/lumina-xmd3?color=FF007F&style=for-the-badge&logo=git&logoColor=white">
+  <a href="https://github.com/cadillaccylee021/LUMINA_XMD/network/members">
+    <img title="Forks" src="https://img.shields.io/github/forks/cadillaccylee021/LUMINA_XMD?color=FF007F&style=for-the-badge&logo=git&logoColor=white">
   </a>
-  <a href="https://github.com/Itzpatron/lumina-xmd3/">
-    <img title="Repo Size" src="https://img.shields.io/github/repo-size/Itzpatron/lumina-xmd3?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white">
+  <a href="https://github.com/cadillaccylee021/LUMINA_XMD/">
+    <img title="Repo Size" src="https://img.shields.io/github/repo-size/cadillaccylee021/LUMINA_XMD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white">
   </a>
-  <a href="https://github.com/Itzpatron/lumina-xmd3/graphs/commit-activity">
+  <a href="https://github.com/cadillaccylee021/LUMINA_XMD/graphs/commit-activity">
     <img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white">
   </a>
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/lumina-xmd3/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/LUMINA_XMD/count.svg" alt="Visitor Count" />
 </p>
 
 ---
