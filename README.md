@@ -62,10 +62,10 @@
 
 ### 1. FORK THE REPOSITORY. 👾🖤
 
-<a href='https://github.com/errrbodyhatescylee/Queen_Kylie-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-blue?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/errrbodyhatescylee/Queen_Kylie-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-green?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID HERE. 👑
-[![here](https://img.shields.io/badge/get-session-blue?style=for-the-badge)](https://lumina-xmd-paircode.onrender.com) 
+[![here](https://img.shields.io/badge/get-session-green?style=for-the-badge)](https://lumina-xmd-paircode.onrender.com) 
 
 
 ### DEPLOY ON RENDER
